@@ -6,7 +6,7 @@ Universal Turing machine simulator in python.As I was reading carefully Turing's
 To run the simulation enter "python turingn.py"
 
 :party:
-```
+```swift
     func taskForPUTMethod(method: String, parameters: [String : AnyObject]?, jsonBody: [String:AnyObject], completionHandler: (result: AnyObject!, error: NSError?) -> Void) -> NSURLSessionDataTask {
         
         /* 1. Set the parameters */
