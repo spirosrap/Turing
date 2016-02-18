@@ -5,4 +5,4 @@ Universal Turing machine simulator in python.As I was reading carefully Turing's
 
 To run the simulation enter "python turingn.py"
 
-:sparkles:
+:tada:
